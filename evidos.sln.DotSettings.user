@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4a13041a_002Dc373_002D458f_002Dae09_002Dd8cdfadaff43/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateUser" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Solution /&gt;
+&lt;/SessionState&gt;</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ddea84e0_002Db03e_002D4f18_002D8aa1_002Df5ede8226ee7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Handle_Should_CreateUserAndDispatchEvents" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::F4B19629-790F-462F-A1FA-7BBBE077215F::net6.0::Evidos.Assignment.Tests.Users.Features.CreateUserIntegrationTest.Handle_Should_CreateUserAndDispatchEvents&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Evidos/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
